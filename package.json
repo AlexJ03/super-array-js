@@ -1,0 +1,16 @@
+{
+  "name": "super-array",
+  "version": "1.0.0",
+  "description": "Use the provided functions to facilitate the task",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "feoktisto.v",
+  "license": "MIT",
+  "keywords": [
+    "array",
+    "super-array",
+    "array-js"
+  ]
+}
