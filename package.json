@@ -1,6 +1,6 @@
 {
   "name": "super-array-js",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "description": "Use the provided functions to facilitate the task",
   "main": "index.js",
   "directories": {
@@ -10,8 +10,8 @@
   "license": "MIT",
   "repository": "https://github.com/AlexJ03/super-array",
   "keywords": [
-    "array",
-    "super-array",
-    "array-js"
+    "array npm",
+    "super array js npm",
+    "super-array-js npm"
   ]
 }
